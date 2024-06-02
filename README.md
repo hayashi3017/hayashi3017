@@ -1,8 +1,11 @@
 ## Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hayashi3017)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hayashi3017)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/hayashi3017">
+  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=hayashi3017&count_private=true&show_icons=true&theme=dracula" />
+</a>
+<a href="https://github.com/hayashi3017">
+  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hayashi3017&layout=compact&theme=dracula" />
+</a>
 
 <!--
 **hayashi3017/hayashi3017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
