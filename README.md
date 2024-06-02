@@ -8,7 +8,10 @@
 </a>
 
 
-## 
+## Development
+
+WIP...
+
 Julia Set Image by CloudFlare Worker.
 <img height="800px" src="https://worker-rust.kuro-love-3017ch.workers.dev/" />
 
