@@ -14,7 +14,7 @@ Julia Set Image by CloudFlare Worker.
   <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=hayashi3017&count_private=true&show_icons=true&theme=dracula" />
 </a>
 <a href="https://github.com/hayashi3017">
-  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hayashi3017&layout=compact&theme=dracula" />
+  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hayashi3017&layout=compact&theme=dracula&hide=makefile" />
 </a>
 
 
